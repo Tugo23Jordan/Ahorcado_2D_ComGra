@@ -1,0 +1,6 @@
+Tecnologia: computadora, algoritmo
+Deporte: futbol, baloncesto, tenis, voleibol, futbol    
+Ciencia: gravedad, celula, atomo, molecula, energia
+Peliculas: matrix, avatar, titanic, gladiador, interestelar
+Paises: peru, argentina, japon, canada, francia
+Animales: perro, gato, leon, tigre, elefante        
